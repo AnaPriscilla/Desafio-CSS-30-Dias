@@ -8,7 +8,7 @@
 
 #### - Deploy 💻 - Dia 02:  [loading-animado](https://loading-animado.vercel.app/) ✔
 
-![dia 02 do desafio loading animado](https://github.com/AnaPriscilla/Desafio-CSS-30-Dias/blob/master/Desafios/Dia-02/img/loading.gif?raw=true)
+![dia 02 do desafio loading animado](https://github.com/AnaPriscilla/Desafio-CSS-30-Dias/blob/master/Desafios/Dia-02/img/loader.gif?raw=true)
 
 ###### Desafio está sendo desenvolvido com muito estudo e 🧡 por Ana Priscilla F. 
 ##### Para saber mais visite o repositório do desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS) 
