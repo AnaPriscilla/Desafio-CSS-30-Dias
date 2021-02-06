@@ -37,7 +37,7 @@ div {
     z-index: 1;
     padding: 5em;
     color: rgb(150, 88, 190);
-    opacity: 85%;
+    opacity: 55%;
     font-family: sans-serif;
     font-size: 0.9em; 
 }
@@ -66,4 +66,26 @@ div {
     100% {
         transform: rotate(360deg);
       }
+}
+
+/* Credits */
+.credit {
+    position: absolute;
+    margin: 0 auto;
+    bottom: 2em;
+    color: rgb(150, 88, 190);
+    opacity: 85%;
+    font-family: sans-serif;
+    font-size: 0.5em; 
+}
+
+.credit a {
+    text-decoration: none;
+    color: rgb(170, 92, 196);
+    font-weight: bold;
+    
+}
+.credit a:hover {
+    color: rgb(135, 74, 206);
+    font-weight: bold;
 }
